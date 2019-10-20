@@ -1,0 +1,11 @@
+C:\~WebData\FirstGit\bin\Debug\netcoreapp2.2\FirstGit.deps.json
+C:\~WebData\FirstGit\bin\Debug\netcoreapp2.2\FirstGit.runtimeconfig.json
+C:\~WebData\FirstGit\bin\Debug\netcoreapp2.2\FirstGit.runtimeconfig.dev.json
+C:\~WebData\FirstGit\bin\Debug\netcoreapp2.2\FirstGit.dll
+C:\~WebData\FirstGit\bin\Debug\netcoreapp2.2\FirstGit.pdb
+C:\~WebData\FirstGit\obj\Debug\netcoreapp2.2\FirstGit.csprojAssemblyReference.cache
+C:\~WebData\FirstGit\obj\Debug\netcoreapp2.2\FirstGit.csproj.CoreCompileInputs.cache
+C:\~WebData\FirstGit\obj\Debug\netcoreapp2.2\FirstGit.AssemblyInfoInputs.cache
+C:\~WebData\FirstGit\obj\Debug\netcoreapp2.2\FirstGit.AssemblyInfo.cs
+C:\~WebData\FirstGit\obj\Debug\netcoreapp2.2\FirstGit.dll
+C:\~WebData\FirstGit\obj\Debug\netcoreapp2.2\FirstGit.pdb
