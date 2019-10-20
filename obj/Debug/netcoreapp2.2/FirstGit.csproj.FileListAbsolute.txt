@@ -9,3 +9,14 @@ C:\~WebData\FirstGit\obj\Debug\netcoreapp2.2\FirstGit.AssemblyInfoInputs.cache
 C:\~WebData\FirstGit\obj\Debug\netcoreapp2.2\FirstGit.AssemblyInfo.cs
 C:\~WebData\FirstGit\obj\Debug\netcoreapp2.2\FirstGit.dll
 C:\~WebData\FirstGit\obj\Debug\netcoreapp2.2\FirstGit.pdb
+C:\Users\HBByTheSea\Documents\GitHub\FirstGit\bin\Debug\netcoreapp2.2\FirstGit.deps.json
+C:\Users\HBByTheSea\Documents\GitHub\FirstGit\bin\Debug\netcoreapp2.2\FirstGit.runtimeconfig.json
+C:\Users\HBByTheSea\Documents\GitHub\FirstGit\bin\Debug\netcoreapp2.2\FirstGit.runtimeconfig.dev.json
+c:\Users\HBByTheSea\Documents\GitHub\FirstGit\bin\Debug\netcoreapp2.2\FirstGit.dll
+c:\Users\HBByTheSea\Documents\GitHub\FirstGit\bin\Debug\netcoreapp2.2\FirstGit.pdb
+c:\Users\HBByTheSea\Documents\GitHub\FirstGit\obj\Debug\netcoreapp2.2\FirstGit.csprojAssemblyReference.cache
+c:\Users\HBByTheSea\Documents\GitHub\FirstGit\obj\Debug\netcoreapp2.2\FirstGit.csproj.CoreCompileInputs.cache
+c:\Users\HBByTheSea\Documents\GitHub\FirstGit\obj\Debug\netcoreapp2.2\FirstGit.AssemblyInfoInputs.cache
+c:\Users\HBByTheSea\Documents\GitHub\FirstGit\obj\Debug\netcoreapp2.2\FirstGit.AssemblyInfo.cs
+c:\Users\HBByTheSea\Documents\GitHub\FirstGit\obj\Debug\netcoreapp2.2\FirstGit.dll
+c:\Users\HBByTheSea\Documents\GitHub\FirstGit\obj\Debug\netcoreapp2.2\FirstGit.pdb

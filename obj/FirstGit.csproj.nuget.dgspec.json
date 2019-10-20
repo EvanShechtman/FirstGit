@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\~WebData\\FirstGit\\FirstGit.csproj": {}
+    "C:\\Users\\HBByTheSea\\Documents\\GitHub\\FirstGit\\FirstGit.csproj": {}
   },
   "projects": {
-    "C:\\~WebData\\FirstGit\\FirstGit.csproj": {
+    "C:\\Users\\HBByTheSea\\Documents\\GitHub\\FirstGit\\FirstGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\~WebData\\FirstGit\\FirstGit.csproj",
+        "projectUniqueName": "C:\\Users\\HBByTheSea\\Documents\\GitHub\\FirstGit\\FirstGit.csproj",
         "projectName": "FirstGit",
-        "projectPath": "C:\\~WebData\\FirstGit\\FirstGit.csproj",
+        "projectPath": "C:\\Users\\HBByTheSea\\Documents\\GitHub\\FirstGit\\FirstGit.csproj",
         "packagesPath": "C:\\Users\\HBByTheSea\\.nuget\\packages\\",
-        "outputPath": "C:\\~WebData\\FirstGit\\obj\\",
+        "outputPath": "C:\\Users\\HBByTheSea\\Documents\\GitHub\\FirstGit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
